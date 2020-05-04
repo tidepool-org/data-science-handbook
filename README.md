@@ -1,92 +1,66 @@
 # Tidepool's Data Science Team Handbook 
+Welcome to the Tidepool Data Science Team Handbook. Please be sure to read [Team Governance](governance.md)
+to get a sense of our purpose and philosophies. 
 
+## Purpose
 The purpose of this repository is provide guidance to those contributing to the Tidepool Data Science Team, 
 and to document how Tidepool's Data Science Team operates. It is also a place to capture all of the non-code related
-items that make up our ecosystem, which includes our: 
+items that make up our ecosystem. 
 
-* Cheat-sheets
-* Checklists
-* GitHub Architecture
-* Governance
-* Recipes
-* Tech Stack
-* Templates
-* Tips & Tricks
-* Tutorials
+## In this Repository
+* [Cheat Sheets](cheat-sheets)
+* [Checklists](checklists)
+* G-Suite
+    * G-Suite Instructions (TODO: instructions/g-suite.md)
+    * [G-Suite Acrchitecture](g-suite-architecture)
+* GitHub
+    * [GitHub Instructions](instructions/github.md)
+    * [GitHub Architecture](data-science-team-architecture-ecosystem-and-tech-stackl) 
+* [Governance](governance.md)
+* [Instructions](instructions)
+* [Lessons Learned, Gotchas, and Pitfalls](lessons-learned-gotchas-and-pitfalls)
+* [Recipes](recipes)
+* [Templates](templates) - all non-github templates
+* [Tips & Tricks](tips-and-tricks)
+* [Tutorials](tutorials)
 
+## Architecture, Ecosystem & Tech Stack
+* 1password - for password management
+* aws - for cloud computing
+    * compute-1
+    * compute-2
+    * S3
+* confluence - our knowledge-management-system for internal and external knowledge sharing 
+but it will point to github and g-suite
+* datasets
+    * can contain phi, or psi (partner sensitive information)
+    * can exist in multiple locations
+    * can exist in multiple states (e.g., raw, interim, processed)
+    * for tidepool it can be all data or donor_data
+    * mvp is to create for internal, partner, and public use
+    * needs version control
+    * source can be tidepool or external
+    * we need to know what transformations were done
+* email - for corresponding with partners and non-time sensitive materials
+* g-suite - for creating documents that need review or collaboration
+* github - for version control
+* jira - for project and sprint management)
+* knowledge-management-system - we may use confluence to share 
+but data will be version controlled in github and g-suite:
+    * data-science-insights repository (in github)
+    * Data Science Team Drive (in g-suite)
+* local-machine - the tools most of the team uses
+    * macbook pro
+    * excel
+    * gitkraken
+    * pycharm
+* meetings - zoom for video chats, and google docs for meeting notes
+* monday - for long term and roadmap planning
+* slack - for real-time communication
+* templates and checklists:
+    * if code or text based put in github, 
+    * if application specific put directions and locations in handbook templates and checklist section
+* zoom - for meetings
+* zotero - for collecting papers and citing our work
 
-***
-## Data Science Team Governance
-Last updated May 1, 2020 by Ed Nykaza, Jason Meno, and Cameron Summers
-
-### Purpose
-The purpose of this governance document is to document how the Tidepool Data Science Team operates. We firmly believe 
-in radical transparency and continual improvement. As such, this is a living document that should be helpful for anyone 
-that wants to contribute to the data science team.
-
-### Team Philosophies
-* Always put the diabetes community and Tidepool before your ego. In fact, you don’t work for Tidepool, you work for 
-the diabetes community. This job is a privilege.
-* Continually learn and share what you learn. The more we can share back to the diabetes community the more we can help 
-speed up innovation.
-* Demonstrate rather than abstractate (yep, totally a made up word :). There are a lot of smart people that have really 
-great ideas that never got past the idea phase because they spent their energy thinking (abstracting) instead of 
-prototyping the idea, demonstrating, getting feedback, and iterating (being agile).
-* Be Radically transparent and radically candid (Scott, 2017). Give open and honest feedback sooner than later because 
-you care.
-* Go slow to go fast. Document and share everything, and keep things clean and concise (less is more). 
-Everything includes code, data, papers/references. Take the time to document code and be pedantic about version control. 
-Take the extra time to make code readable and reproducible, so we are not actively creating technical debt. 
-* As a team we should challenge, debate, agree/disagree, and then commit.
-* The four agreements [borrowed from (Ruiz, 1997)]
-    * Be impeccable with your word. If you say you are going to do something, then do it, or renegotiate sooner than later.
-    * Don’t take anything too seriously. While it is true that the work we are doing is super important and that it is 
-    super important that we get the details correct because people’s lives depend on it, we will not be useful to the 
-    diabetes community, Tidepool, and the Tidepool Data Science Team if we are not in a sound mind and body. Take the 
-    time to take care of yourself (e.g., get enough sleep, exercise, fuel, and mental well being).
-    * Don’t make assumptions.
-    * Always do your best and be ok with the fact that your best will vary over time.
-* Commit to having the best data science team (see Project Aristotle for reference):
-    * Psychological Safety – team members feel safe to take risks, make mistakes, and be vulnerable in front of each 
-    other. 
-    * Above average social sensitivity — ability to know how others felt based on their tone of voice, their expressions 
-    and other nonverbal cues.
-    * Equality in distribution of conversational turn-taking — team members speak in roughly the same proportion.
-    * Radical Candor (Scott, 2017)— giving timely, honest, feedback in a caring way because you care
-    * Conflict is often good (Fisher et al., 1991) and important for growth (Dweck, 2006). However, must properly manage 
-    conflict:
-        * People: Separate people from the problem
-        * Interests: Focus on interests not positions
-        * Options: Come up with multiple solutions to consider
-        * Criteria: Insist that the results be based on some objective standard
-    * Agile — able to adapt and renegotiate.
-    * Learn by doing (test & learn iteratively)
-    * Share & demonstrate what you learn
-    * Communication — communicate, even about stressful issues and topics. 
-    * Have Fun
-    * Be Professional
-        * Get things done on time
-        * Have clear team & individual expectations, roles, plans, and goals
-    * Improve the system
-        * It is everyone’s job to improve our data science system.
-        * Create checklists (Gawande, 2011), templates, and cheat-sheets
-        * Share knowledge, insights, lessons-learned, and potential-pitfalls
-        * It is your job to improve yourself. Here is a link to some of 
-        [Ed’s favorite books](https://live-learn-lead.com/recommended-reading/). 
-    * Code to the highest standard:
-        * Document your code.
-        * Don’t Repeat Yourself (DRY)
-        * Reuse code via import (don’t copy and paste)
-        * Write tests (unit and integration tests)
-        * Don’t write code that is immediately in a state of tech debt.
-        * Choice — having the best team is a choice and something we all have to work at.
-
-### References
-* Allen, D. (2001). Getting Things Done: The Art of Stress-Free Productivity. Penguin.
-* Dweck, C. S. (2006). Mindset: The New Psychology of Success. Random House.
-* Fisher, R., Ury, W., & Patton, B. (1991). Getting to Yes: Negotiating Agreement Without Giving in. Houghton Mifflin Harcourt.
-* Gawande, A. (2011). The Checklist Manifesto: How to Get Things Right. In Journal of Nursing Regulation (Vol. 1, Issue 4, p. 64).
-* Ruiz, M. (1997). The Four Agreements: A Practical Guide to Personal Freedom. Amber-Allen Publishing.
-* Scott, K. (2017). Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity. Pan Macmillan.
-
-
+## FAQs
