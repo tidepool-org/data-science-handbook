@@ -21,7 +21,7 @@ items that make up our ecosystem.
 * [Lessons Learned, Gotchas, and Pitfalls](lessons-learned-gotchas-and-pitfalls)
 * [Recipes](recipes)
 * [Templates](templates) - all non-github templates
-* [Tips & Tricks](tips-and-tricks)
+* [Tips & Tricks](tips-and-tricks.md)
 * [Tutorials](tutorials)
 
 ## Architecture, Ecosystem & Tech Stack
