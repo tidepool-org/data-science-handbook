@@ -15,11 +15,10 @@ items that make up our ecosystem.
     * [G-Suite Acrchitecture](g-suite-architecture)
 * GitHub
     * [GitHub Instructions](instructions/github.md)
-    * [GitHub Architecture](data-science-team-architecture-ecosystem-and-tech-stackl) 
+    * [GitHub Architecture](github-architecture) 
 * [Governance](governance.md)
 * [Instructions](instructions)
-* [Lessons Learned, Gotchas, and Pitfalls](lessons-learned-gotchas-and-pitfalls)
-* [Recipes](recipes)
+* [Lessons Learned & Gotchas](lessons-learned-and-gotchas)
 * [Templates](templates) - all non-github templates
 * [Tips & Tricks](tips-and-tricks.md)
 * [Tutorials](tutorials)
