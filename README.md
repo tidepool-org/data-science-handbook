@@ -63,3 +63,10 @@ but data will be version controlled in github and g-suite:
 * zotero - for collecting papers and citing our work
 
 ## FAQs
+
+### Google Doc vs. Report in GitHub
+Q: When writing a document or report should I use a Google Doc or put the Github via markdown?
+
+A: If the document is going to require feedback (comments, edits, suggestions) then start with a google doc.
+Once the document is finalized, it can be converted into a markdown document and stored in GitHub using this
+[Google Docs add-on tool](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607).
