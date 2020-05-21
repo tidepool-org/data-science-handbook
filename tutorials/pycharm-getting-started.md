@@ -29,12 +29,41 @@ For more information on downloading PyCharm see the
 [PyCharm Installation Support Article](
 https://www.jetbrains.com/help/pycharm/installation-guide.html)
 
+
+## Opening a Project
+1. On the PyCharm Welcome screen, select "Open," or select File > Open from the main menu.
+2. Navigate to the project directory.
+3. Click "Open."
+
+
+You can also open projects directly from GitHub, instead. For instructions 
+on how to do so see this tutorial on Opening your Project for the First Time.
+https://www.jetbrains.com/help/pycharm/opening-your-project-for-the-first-time.html
+
+
+[Creating new projects through PyCharm](https://www.jetbrains.com/help/pycharm/creating-empty-project.html)
+is also possible.
+
+
 ## Best Practices
 * For more information on coding style, see the Data Science Team code style guidelines. [TO DO: ADD LINK]
 
 
 ## Tips and Tricks
-* Autoformatting code with PyCharm
+* For more information on using packages in PyCharm, see this
+ [tutorial on installing, uninstalling, and upgrading packages](https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html)
+* If you navigate to the View option on the Menu Bar, you can select various view options, such as "Enter Presentation Mode,"  which increases the font size of you code to 
+make it easier for your audience to view, or "Enter Distraction Free Mode," where the editor occupies 
+the entire main window. See [PyCharm Viewing Modes ](
+https://www.jetbrains.com/help/pycharm/ide-viewing-modes.html) for more. You can also [Configure Shortcuts](
+https://www.jetbrains.com/help/pycharm/configuring-keyboard-and-mouse-shortcuts.html) configure shortcuts to 
+switch between the different view modes. From the View menu, you can also select and deselect which menu elements
+you want in the main view.
+* You can [export and share your PyCharm settings](https://www.jetbrains.com/help/pycharm/tutorial-sharing-product-settings.html), for example if you want to configure PyCharm similarly on 
+multiple machines.
+* PyCharm also has a set of built in [tools for formatting and styling your code](https://www.jetbrains.com/help/pycharm/tutorial-code-quality-assistance-tips-and-tricks.html).
+* You can search both [within a file](https://www.jetbrains.com/help/pycharm/finding-and-replacing-text-in-file.html) and within a whole project. 
+
 
 ## Additional Resources and Guides
 
