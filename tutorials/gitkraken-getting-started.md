@@ -38,25 +38,29 @@ To do so, select the "Sign in with GitHub" button and enter your GitHub credenti
 ## Cloning a Repository
 
 GitKraken makes cloning repositories from GitHub relatively straightforward. 
+
 To do so, 
 
 1. Click the Repo Menu (folder icon in the upper left corner)
+
+   This will likely already be the first screen you see when you login to GitKraken for the first time. 
+    
 2. Select Clone
 3. Select where to clone from (i.e. GitHub)
 4. Select where to clone the repository to on your local machine and search for the
 repository name.
 5. Select "Clone the repo!"
 
-
 ## Best Practices
 
-* Commit changes in small chunks with a clearly descriptive summary (see .... )
+* See the [GitHub Instructions Page](https://github.com/tidepool-org/data-science-handbook/blob/master/instructions/github.md)
+of the Data Science Handbook for guidelines on commit and repository naming conventions.
+
 
 ## Tips and Tricks
 
 * The check mark to the left of the branch name indicates which branch you are currently on.
 * Double click on any branch in the repo to view committed changes on that branch.
-
 
 
 ## Additional Resources and Guides
