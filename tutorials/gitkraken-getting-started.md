@@ -51,6 +51,28 @@ To do so,
 repository name.
 5. Select "Clone the repo!"
 
+
+## Staging and Committing Changes
+
+When you make changes to a local repository on a particular branch, you will see uncommitted
+changes reflected in the GitKraken interface.
+
+Follow the steps in this [GitKraken tutorial on committing changes](https://support.gitkraken.com/working-with-commits/commits/)
+
+## Creating a Pull Request
+1. Drag and drop your feature branch onto the main branch to access to pull request option.
+2. Fill in the details and click "Create a Pull Request."
+
+OR
+
+1. Click the "+" sign next to the PULL REQUESTS section on the left side of the screen. 
+2. Fill in the details and click "Create a Pull Request."
+
+
+GitKraken also provides a helpful 
+[video on creating a pull request](https://support.gitkraken.com/working-with-repositories/pull-requests/),
+which outline these two ways of creating a pull request.
+
 ## Best Practices
 
 * See the [GitHub Instructions Page](https://github.com/tidepool-org/data-science-handbook/blob/master/instructions/github.md)
