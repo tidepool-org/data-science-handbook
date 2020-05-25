@@ -45,8 +45,8 @@ To do so,
 
    This will likely already be the first screen you see when you login to GitKraken for the first time. 
     
-2. Select Clone
-3. Select where to clone from (i.e. GitHub)
+2. Select Clone.
+3. Select where to clone from (i.e. GitHub).
 4. Select where to clone the repository to on your local machine and search for the
 repository name.
 5. Select "Clone the repo!"
@@ -57,10 +57,10 @@ repository name.
 When you make changes to a local repository on a particular branch, you will see uncommitted
 changes reflected in the GitKraken interface.
 
-Follow the steps in this [GitKraken tutorial on committing changes](https://support.gitkraken.com/working-with-commits/commits/)
+Follow the steps in this [GitKraken tutorial on committing changes](https://support.gitkraken.com/working-with-commits/commits/) to commit these changes.
 
 ## Creating a Pull Request
-1. Drag and drop your feature branch onto the main branch to access to pull request option.
+1. Drag and drop your feature branch onto the main branch to access the pull request option.
 2. Fill in the details and click "Create a Pull Request."
 
 OR
