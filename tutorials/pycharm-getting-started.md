@@ -4,9 +4,9 @@ PyCharm is the Python IDE of choice for the Data Science Team.
 
 ## Acquiring PyCharm License Key
 PyCharm offers both a Professional and Community version of its software. The Professional version, which is what 
-the Data Science Team uses, requires a paid license (after free trial). 
+the Data Science Team uses, requires a paid license. 
 
-To acquire this license, [TO DO: UPDATE WITH PROCESS HERE].
+To acquire this license, talk with your mentor or manager about getting a license through Tidepool.
 
 ## Downloading PyCharm
 
@@ -46,7 +46,7 @@ is also possible.
 
 
 ## Best Practices
-* For more information on coding style, see the Data Science Team code style guidelines. [TO DO: ADD LINK]
+* For more information on coding style, see the Data Science Team code style guidelines. [TODO: put link after this section is written]
 
 
 ## Tips and Tricks

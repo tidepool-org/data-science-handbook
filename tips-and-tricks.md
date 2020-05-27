@@ -47,7 +47,3 @@ End Sub
 ### Add a terminal shortcut (e.g., to ignore large files)
     alias ignore-large-files="find . -size +50M | cat >> .gitignore"
 
-## GitKraken
-
-    This is where I'm going to add in some helfpul tips and tricks
-    related to GitKraken.
