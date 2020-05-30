@@ -1,7 +1,17 @@
 # Best Practices
 
-## Where to store and share references
+## Writing
+As a general rule of thumb if the material you are contributing is greater than 1 page, it is a good 
+sign that it should be broken up into smaller chunks, and the chunks should be added to a searchable list. 
 
+## Using Google Docs and/or Github Markdown for documents and reports
+If the document you are writing is going to require feedback (comments, edits, suggestions) then start 
+with a google doc.Once the document is finalized, it can/should be converted into a markdown document 
+and stored in GitHub. This tool may be useful for making the conversion automatically:
+[Google Docs add-on tool](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607).
+
+
+## Where to store and share references
 In regards to the best way to share papers, the following is the Data Science Team's best practice:
 - Send the papers to the learning-group@tidepool.org google group via email with a subject line that succinctly 
 captures the theme of the paper(s).
