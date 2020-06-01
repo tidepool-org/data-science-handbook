@@ -15,7 +15,7 @@ ls -ltrh
 ### Remove Mac's .DS_Store from a directory
 
 ```
-find . -name ‘.DS_Store’ -type f -delete
+find . -name '.DS_Store' -type f -delete
 ```
 
 ### Ignore files that are greater than 50 MB (add to gitignore)
