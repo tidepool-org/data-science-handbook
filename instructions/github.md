@@ -9,6 +9,19 @@ All data science Github repositories should start with `data-science` followed b
 encapsulated by double dashes (e.g., `data-science--explore--`), followed by a short and concise  
 description of the work (e.g., `data-science--explore--optimize-loop-settings`). 
 
+## Repository Template
+The Data Science Team has created a template repository that should be 
+used for any new project repositories. 
+
+To use this template, navigate to the **Create a new repository page** and select *tidepool-org/data-science-project-template* from
+the **Repository template** drop-down.
+
+You can view and suggest changes to this template by navigating to
+the [Data Science Project Template Repository](https://github.com/tidepool-org/data-science-project-template).
+
+The template contains instructions for use, including a new repo checklist and 
+a guide for getting started with Conda virtual environments, in the README.md file.
+
 ## Types of Work
 The *type* of work the Data Science Team does varies, but it generally starts in the exploratory phase (`--explore--`). 
 The following list includes the types of work that the team has historically done, is currently doing, 
