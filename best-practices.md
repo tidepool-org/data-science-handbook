@@ -1,5 +1,10 @@
 # Best Practices
 
+## Backing up your computer/work
+ - Try to do any/all work in a github repository to take advantage of version control.
+ - Use Google Backup and Sync, as we (Tidepool) have unlimited storage in Google Drive.   
+ - If using a Mac, use Time Machine.
+
 ## Writing
 As a general rule of thumb if the material you are contributing is greater than 1 page, it is a good 
 sign that it should be broken up into smaller chunks, and the chunks should be added to a searchable list. 
