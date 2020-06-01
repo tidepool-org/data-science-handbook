@@ -6,7 +6,7 @@
 ls | wc -1
 ```
 
-### List files by date modified (most recent first)
+### List files by date modified (most recent at the bottom of the list)
 
 ```
 ls -ltrh
