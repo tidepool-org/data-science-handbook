@@ -6,7 +6,7 @@ reviewing code.
 ## Author Checklist
 Before submitting a pull request, consider:
 
-  * Can the reviewer move quickly? 
+  * Can the reviewer review your pull request quickly? 
 
   * Is the README file there? 
 
