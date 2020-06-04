@@ -32,7 +32,7 @@ You have several options for providing feedback when doing a code review:
 
 2. If you are making a very small change to an existing line or lines of adjacent code, use the GitHub suggestion mode.
 
-3. If you want to make larger changes, then create a branch off of the branch being reviewed and let the team know in Slack.
+3. If you want to suggest larger changes, then create a branch off of the branch being reviewed and let the team know in Slack.
 
 ## Other Best Practices and Guidelines
 The following best practices have been decided on by the Data Science Team. However, these practices are
