@@ -10,7 +10,7 @@ Before submitting a pull request, consider:
 
   * Is the README file there? 
 
-  * Is the code organized well and understandable?
+  * Is the code well organized well and do you have good test coverage? 
       
   * Does the style follow the Data Science Team's guidelines?
 
