@@ -4,7 +4,7 @@ The following page outlines the Data Science Team's guidelines for submitting pu
 reviewing code.
 
 ## Author Checklist
-Before submitting a pul request, consider:
+Before submitting a pull request, consider:
 
   * Can the reviewer move quickly? 
 
