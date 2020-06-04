@@ -13,7 +13,7 @@ Before submitting a pull request, consider:
   * Is the code well organized well and do you have good test coverage? 
       
   * Does the style follow the Data Science Team's guidelines?
-
+* Were you specific about what you would like to be reviewed and how you would like the code to be reviewed?
 
 ## Reviewer Checklist
 When reviewing someone else's code, be sure to check that:
