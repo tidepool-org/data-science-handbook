@@ -8,7 +8,7 @@ Before submitting a pull request, consider:
 
   * Can the reviewer review your pull request quickly? 
 
-  * Is the README file there? 
+  * Is the README file up to date? 
 
   * Is the code well organized well and do you have good test coverage? 
       
