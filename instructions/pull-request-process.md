@@ -18,7 +18,7 @@ Before submitting a pull request, consider:
 ## Reviewer Checklist
 When reviewing someone else's code, be sure to check that:
 
-* The code runs.
+* You can get the tests to run, and understand the code at a high level.
 
 * There are no obvious errors.
 
