@@ -22,7 +22,7 @@ When reviewing someone else's code, be sure to check that:
 
 * There are no obvious errors.
 
-* There is test coverage.
+* Do you provide feedback in a radically candid way? That is, were you clear, concise, and concrete with your feedback and you made the feedback because you care. The opposite would be non-specific, lengthy, meandering and judgemental feedback that serves the purpose of belittling the code writer or showing off how smart you are. 
 
 ## Code Review Process Options for Feedback
 
