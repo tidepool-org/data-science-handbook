@@ -11,6 +11,14 @@ https://drive.google.com/drive/folders/1jRtxaB6a_8_edZKc8sC3_cM6SuUOhoU-
 
 https://www.datascienceweekly.org/newsletters
 
+Kdnuggest
+https://opendatascience.com/
+https://www.datascienceweekly.org/
+
+## Diabetes Data Specific
+
+Add link to data science learning group papers
+
 
 # Data Visualization Links 
  

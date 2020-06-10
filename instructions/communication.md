@@ -1,1 +1,0 @@
-Keep a living notes doc so that everyone can see what you are up to.

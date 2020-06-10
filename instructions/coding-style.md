@@ -19,6 +19,8 @@ We also use PEP 257 formatting for docstrings, as outlined
 
 ## Additional Code Style Conventions
 
+* Keep line lengths at 120 characters.
+
 * Access Pandas dataframes with strings and brackets.
 
 * Single word or snake_case is best for variable names.
@@ -45,6 +47,9 @@ as much of the styling as possible.
 PyCharm has some tools for automating code styling, 
 which will be further explored by the Data Science Team.
 
+## Python Version
+
+The minimum python version that we will support is: 3.6
 
 
 
