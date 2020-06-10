@@ -22,14 +22,14 @@ so that everyone can see what we are up to. Sharing ideas
 and asking questions of coworkers is also often best done in 
 living notes, as it allows the idea and question to be asked and dealt with asynchronously.
 
-* **Jira** is a space for the framework of our projects; the details of our work can live within living notes
-Keeping data science updates for the rest of the team to be moderate in frequency, and minimizing the number of meetings in our schedules
+* **Jira** is a space for the framework of our projects; the details of our work can 
+live within living notes.
 
 * Create Jira tickets for new work or requests
 and continue to manage personal or one off things on our **own to do lists.**
 
 * If you need an immediate response, please note this (in Slack, etc.); otherwise, 
-we will assume it’s not urgent.
+we assume it’s not immediately urgent.
 
 ## Updating Jira Cards
 
@@ -47,5 +47,5 @@ but also don't want to just update them once a sprint.
 update the Tidepool OOO calendar and your personal calendar. 
 
 * Use Slack statuses to indicate both short term availability (away from desk, lunch, etc.) and
-when out of office for longer time periods or for the day.
+when you are out of office for longer time periods or for the whole day.
 

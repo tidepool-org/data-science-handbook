@@ -2,7 +2,7 @@
 
 The Data Science Team works to maintain
 a consistent code style for code readability
-and easier maintenance.
+and maintenance.
 
 ## PEP 8 Code Style
 

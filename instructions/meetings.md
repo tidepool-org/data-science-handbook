@@ -9,11 +9,11 @@
 know if there is specific information in the meeting they should know.
 
 * When someone is giving a presentation or talking, ideally one other person should take notes and 
-one person was keeping an eye on the chat.
+one person should keep an eye on the chat.
 
-* In the case of recurring or team meetings, you can start taking notes in the Google doc 
+* In the case of recurring meetings, you can start taking notes in the Google doc 
 specific to that recurring meeting (for example, Data Science Team Notes [LIVING]). If the notes 
-get rather large, though, good practice to move the notes to another location, title them 
+get rather large, though, good practice is to move the notes to another location, title them 
 with the specific topic and include a link to them in the original doc.
 
 ## Meeting Responsibilities
@@ -52,28 +52,36 @@ with the specific topic and include a link to them in the original doc.
 
 ## Recurring Meetings
 
-**The following is a list of all recurring Data Science related meetings.**
+**The following is a list of recurring Data Science related meetings.**
 
-(A) Biweekly sprint planning meetings on Monday (data science team only), where we plan out the next two weeks of work
+(A) Biweekly sprint planning meetings on Monday (data science team only), 
+where we plan out the next two weeks of work.
 
-(B) Biweekly sprint meeting on Tuesdays (data science team and project management team)
+(B) Biweekly sprint meeting on Tuesdays (data science team and project management team).
 
-(C) Biweekly update at All Hands Meeting. We should take turns giving this high-level presentation to larger Tidepool Team. Updates should go on our confluence page, and we can walk through those updates 
+(C) Biweekly update at All Hands Meeting. We should take turns giving this high-level 
+presentation to larger Tidepool Team. Updates should go on our confluence page, and 
+we can walk through those updates. 
 
 (D) Biweekly diabetes data science team meeting. We should take turns leading this meeting.
 
-(E) Biweekly data science team open hour on Thursdays before the end of the sprint to share what we’ve done with any internal tidepool folks that might be interested. The purpose of these meetings is to get into the nerdy details for those that are interested.
+(E) Biweekly data science team open hour on Thursdays before the end of the sprint to share 
+what we’ve done with any internal Tidepool folks that might be interested. 
+The purpose of these meetings is to get into the nerdy details for those that are interested.
 
-(F) Biweekly presentation at Tidepool Show and Tell. The purpose of this presentation is to share what the data science team is up to at a very high level. I think that we should take turns, which essentially means that each of us would be on the hook to present at least once every 6 weeks.
+(F) Biweekly presentation at Tidepool Show and Tell. 
+The purpose of this presentation is to share what the data science team 
+is up to at a very high level. We should take turns presenting
+essentially means that each of us would be on the hook to present at least once every 6 weeks.
 
 (G) 10% Time Fridays -- work on whatever you want and let’s share at the end of the day. 
 
-(H) Thursday Stand up and show and tell.
+(H) Thursday Stand Up and Show and Tell.
 
 
 ## Agenda/Purpose Template
 The following template can be used for defining the agenda, purpose and next actions of a meetings, as
-well as keep track of information about the meeting such as who attended and whether it was recorded.
+well as keeping track of information about the meeting such as who attended and whether or not it was recorded.
 
 Participants: <br>
 Purpose: The purpose of this meeting is to [____] <br>
