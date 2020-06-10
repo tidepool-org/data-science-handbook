@@ -1,6 +1,6 @@
 #pypi release
 1. If you do not have a pypi account, create a user account on https://pypi.org/ or https://test.pypi.org/ depending on 
-where you will be deploying.
+where you will be deploying. If this is an existing project in pypi, you will need to be a maintainer or owner of the project. 
 2. Create and checkout a Github Branch from the Master Branch for the project you will be deploying.
 3. Setup the virtual environment and run all test and TOX 
 4. Update the `version_string` with the version number for this release. (v0.1.0).
