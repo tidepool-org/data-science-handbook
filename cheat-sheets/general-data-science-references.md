@@ -1,33 +1,47 @@
-# General Data Science References and Learning Materials
+# Data Science References and Learning Materials
 
-TODO: collect references here
+In the spirit of continual learning and improvement, 
+we suggest spending a small portion of each week reading about and practicing
+new data science tools and techniques.
 
-Spend a small portion of your week reading and practicing data science. Here are some resources:
-Data Science Old Team Drive Cheat Sheets
-https://drive.google.com/drive/folders/1mF1qvG8lkqNLvsgomOU9KEWxzyRV1PUT
+## General References
 
-Data Science Old Team Drive Books
-https://drive.google.com/drive/folders/1jRtxaB6a_8_edZKc8sC3_cM6SuUOhoU-
+The following resources may be a good place to start for exploring new topics.
 
-https://www.datascienceweekly.org/newsletters
+1. The Data Science Team has collected a number of different 
+[data science related cheat sheets](https://drive.google.com/drive/folders/1mF1qvG8lkqNLvsgomOU9KEWxzyRV1PUT) in 
+Google Drive.
 
-Kdnuggest
-https://opendatascience.com/
-https://www.datascienceweekly.org/
+2. Also in the Data Science Team Google Drive, are some downloadable
+[data science related books](https://drive.google.com/drive/folders/1jRtxaB6a_8_edZKc8sC3_cM6SuUOhoU-).
 
-## Diabetes Data Specific
+3. [Data Science Weekly](https://www.datascienceweekly.org/newsletters) does a weekly data science 
+newsletter that covers a variety of topics. You can find the latest newsletter, as well as an 
+archive of previous 
 
-Add link to data science learning group papers
+4. [Kdnuggets](https://www.kdnuggets.com/) contains many different tutorials and blog posts
+related to data science.
+
+5. [Open Data Science](https://opendatascience.com/) is another good site with many different topics
+including data modeling and different data science tools.
 
 
-# Data Visualization Links 
- 
-(Possibly make this a separate page)
- 
-Fundamentals of Data Visualization: A Primer on Making Informative and Compeling Figures for overview of plot types and data visualization considerations
-Information is Beautiful blog for examples and articles, including this good list of data visualization books
-Plotly - https://plot.ly/python/
-Plotly Dash Examples
-Python Data Visualization: Tools and Trends (from Anaconda)
-https://opendatascience.com/data-visualization-how-to-pick-the-right-chart-type/
-FlowingData - Blog/Tutorials
+## References Specific to Diabetes Data
+
+In addition to keeping up with data science developments and best practices, we also
+encourage devoting time to getting familiar with and reading the latest
+research on diabetes data.
+
+There are many avenues to do this at Tidepool. One is through the weekly Data Science Learning group, 
+which covers a variety of diabetes data related topics and can be a good way to learn more
+about research in the field. Papers from this group are shared via the
+learning-group@tidepool.org google group, as well as on [Zotero](https://www.zotero.org/) (contact the
+Data Science Team for an invitation to either platform, if needed). 
+
+## Data Visualization
+
+For references specific to data visualization best practices and tools, see
+the [Data Visualization Guide](https://github.com/tidepool-org/data-science-handbook/blob/master/cheat-sheets/data-visualization.md) of the Data Science Handbook
+
+
+

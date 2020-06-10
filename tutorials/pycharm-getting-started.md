@@ -51,7 +51,8 @@ is also possible.
 
 ## Tips and Tricks
 
-See the PyCharm Tips page in the tips-and-tricks folder of the Data Science Handbook (add link).
+See the [PyCharm Tips](https://github.com/tidepool-org/data-science-handbook/blob/master/tips-and-tricks/pycharm-tips.md) page 
+of the Data Science Handbook.
 
 ## Additional Resources and Guides
 

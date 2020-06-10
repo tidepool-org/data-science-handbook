@@ -1,4 +1,4 @@
-#Team Communications
+#Team Communication and Project Management
 
 I created data-science@tidepool.org google group and also created a calendar under my profile.
 Team Calendar is used as a way to keep track of our recurring events (sprint structure, who is presenting at what all-hands/show-and-tell), but does not replace the personal calendar events themselves.
@@ -28,3 +28,8 @@ If we need an immediate response. Say it in whatever you call it, otherwise assu
 Here are some general Tidepool rules of thumb:
 If you are going to be out of the office for an entire day, update the Tidepool OOO calendar and your personal calendar. Though I can’t remember what was the decided the last time this was brought up as Tidepool is getting pretty large and the OOO calendar is getting quite big
 Set a slack status
+
+
+## To do lists
+As a team, how do you make sure that action items don’t fall through the cracks. I personally use todoist to manage my personal to do list, but should we consider having a team to-do list that we can add to during meetings where we commit to doing things?
+We will create jira tickets for new work or requests, and will continue to manage personal or one off things on our own.
