@@ -12,10 +12,10 @@ For all coding, we follow PEP 8 style guidelines, outlined in the following reso
 
 * [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
 
-## PEP 257 Docstring Formatting
+## NumPy Docstring Formatting
 
-We also use PEP 257 formatting for docstrings, as outlined 
-[here](https://www.python.org/dev/peps/pep-0257/).
+We also use the NumPy style formatting for docstrings, as outlined 
+[here](https://www.sphinx-doc.org/en/master/usage/extensions/example_numpy.html).
 
 ## Additional Code Style Conventions
 
@@ -32,12 +32,12 @@ We also use PEP 257 formatting for docstrings, as outlined
 * When a variable or function has a long list of arguments, 
 keep them indented in a single-item vertical list separated by commas. 
 Offset the list from the function names using one or two indents (4/8 spaces). 
-This makes it easier to spot the arguments
+This makes it easier to spot the arguments.
 
 * **Single-quotes vs. double-quotes:** While either can be used, we prefer to use double quotes 
 as there may be cases where you need to embed quotes within 
 quotes and in those rare cases, we find that the single 
-quote within the double quote is easier to read “ ‘ “ than the opposite case ‘ “ ‘
+quote within the double quote is easier to read “ ‘ “ than the opposite case ‘ “ ‘.
 
 ## Automating Code Formatting 
 
@@ -49,7 +49,7 @@ which will be further explored by the Data Science Team.
 
 ## Python Version
 
-The minimum python version that we will support is: 3.6
+The minimum python version that we will support is 3.6.
 
 
 
