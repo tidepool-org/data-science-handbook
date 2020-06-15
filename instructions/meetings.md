@@ -3,6 +3,8 @@
 ## Meeting Best Practices
 * Meetings should have good agendas and clear purposes.
 
+* A check-in should occur at the beginning of each meeting to make sure that the meeting will be effective.
+
 * For now, we will record most meeting sessions for future reference. 
 
 * When someone misses a meeting, we make a point to let the person 
