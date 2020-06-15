@@ -1,7 +1,7 @@
 # Naming Conventions
 
 ## General Format
-For files and folders created within the Tidepool Google Drive, documents should be named as follows:
+For files and folders created within the Tidepool Google Drive or locally, documents should be named as follows:
 <[PHI]> <[OBSOLETE]> <[AUDIENCE]> <[STATUS]> <ONE WORD DESCRIPTION> <DETAILS>
 
 ## Common Labels
@@ -23,4 +23,4 @@ For files and folders created within the Tidepool Google Drive, documents should
 ## Dashes, Spaces, Underscores?
 Dashes should be used when possible within filename descriptions and details. 
 
-For github naming conventions, see the github instructional sheet.
+For github naming conventions, see the [Github Instructions](https://github.com/tidepool-org/data-science-handbook/blob/master/instructions/github.md) page.
