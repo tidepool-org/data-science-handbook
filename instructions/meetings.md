@@ -75,6 +75,7 @@ is up to at a very high level. We should take turns presenting
 essentially means that each of us would be on the hook to present at least once every 6 weeks.
 
 (G) 10% Time Fridays -- work on whatever you want and let’s share at the end of the day. 
+//TOD0: Elaborate for clarity of new team members.
 
 (H) Thursday Stand Up and Show and Tell.
 
