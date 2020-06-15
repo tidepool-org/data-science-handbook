@@ -81,9 +81,8 @@ of the Data Science Handbook for guidelines on commit and repository naming conv
 
 ## Tips and Tricks
 
-* The check mark to the left of the branch name indicates which branch you are currently on.
-* Double click on any branch in the repo to view committed changes on that branch.
-
+See the [GitKraken Tips](https://github.com/tidepool-org/data-science-handbook/blob/master/tips-and-tricks/gitkraken-tips.md) page 
+of the Data Science Handbook.
 
 ## Additional Resources and Guides
 

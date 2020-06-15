@@ -56,6 +56,7 @@ but data will be version controlled in github and g-suite:
 * meetings - zoom for video chats, and google docs for meeting notes
 * monday - for long term and roadmap planning
 * slack - for real-time communication
+* travis - for continuous integration
 * templates and checklists:
     * if code or text based put in github, 
     * if application specific put directions and locations in handbook templates and checklist section

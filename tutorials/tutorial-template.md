@@ -30,10 +30,8 @@ following resources may be of interest:
 *
 
 ## Tips and Tricks
-* 
-*
-*
 
+[Add link to tips and tricks file in tips-and-tricks folder (if applicable)]
 
 ## Additional Resources and Guides
 [Add links to additional resources or guides related to tutorial content.]
