@@ -3,7 +3,9 @@
 ## Meeting Best Practices
 * Meetings should have good agendas and clear purposes.
 
-* For now, we will record most meeting sessions for future reference. 
+* A check-in should occur at the beginning of each meeting to make sure that everyone is in a good place to have a productive meeting. If someone is not feeling well, distracted by current events, etc. then a motion should be made to reschedule the meeting.
+
+* We record most meeting sessions for future reference, but it is best practice to start the recording after the check-in. 
 
 * When someone misses a meeting, we make a point to let the person 
 know if there is specific information in the meeting they should know.
@@ -75,6 +77,7 @@ is up to at a very high level. We should take turns presenting
 essentially means that each of us would be on the hook to present at least once every 6 weeks.
 
 (G) 10% Time Fridays -- work on whatever you want and let’s share at the end of the day. 
+[TOD0: Elaborate for clarity of new team members.]
 
 (H) Thursday Stand Up and Show and Tell.
 
@@ -99,7 +102,5 @@ Notes:<br>
 
 
  
-
-
 
 

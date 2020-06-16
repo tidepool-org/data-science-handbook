@@ -4,7 +4,7 @@ All Data Science Team work should be version controlled in
 [Tidepool's Github Account](https://github.com/tidepool-org).
 
 ## Repository Naming Convention:
-    data-science--<type>--<short-consise-name>  
+    data-science--<type>--<short-concise-name>  
 All data science Github repositories should start with `data-science` followed by the *type* of work
 encapsulated by double dashes (e.g., `data-science--explore--`), followed by a short and concise  
 description of the work (e.g., `data-science--explore--optimize-loop-settings`). 
