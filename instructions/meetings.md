@@ -3,7 +3,7 @@
 ## Meeting Best Practices
 * Meetings should have good agendas and clear purposes.
 
-* A check-in should occur at the beginning of each meeting to make sure that the meeting will be effective.
+* A check-in should occur at the beginning of each meeting to make sure that everyone is in a good place to have a productive meeting. If someone is not feeling well, distracted by current events, etc. then a motion should be made to reschedule the meeting.
 
 * For now, we will record most meeting sessions for future reference. 
 
@@ -102,7 +102,6 @@ Notes:<br>
 
 
  
-
 
 
 
