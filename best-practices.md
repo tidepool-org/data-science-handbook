@@ -11,7 +11,7 @@ sign that it should be broken up into smaller chunks, and the chunks should be a
 
 ## Using Google Docs and/or Github Markdown for documents and reports
 If the document you are writing is going to require feedback (comments, edits, suggestions) then start 
-with a google doc.Once the document is finalized, it can/should be converted into a markdown document 
+with a google doc. Once the document is finalized, it can/should be converted into a markdown document 
 and stored in GitHub. This tool may be useful for making the conversion automatically:
 [Google Docs add-on tool](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607).
 
