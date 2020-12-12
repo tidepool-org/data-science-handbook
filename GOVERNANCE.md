@@ -4,7 +4,8 @@ Last updated May 1, 2020 by Ed Nykaza, Jason Meno, and Cameron Summers
 ## Purpose
 The purpose of this governance document is to document how the Tidepool Data Science Team operates. We firmly believe 
 in radical transparency and continual improvement. As such, this is a living document that should be helpful for anyone 
-that wants to contribute to the data science team.
+that wants to contribute to the data science team. We recognize that we are a part of the larger Tidepool
+team, and therefore consider the [Tidepool Mission Statement](https://github.com/tidepool-org/handbook/blob/master/Mission%20Statement.md) a large part of our team governance.
 
 ## Team Philosophies
 * Always put the diabetes community and Tidepool before your ego. In fact, you don’t work for Tidepool, you work for 
@@ -62,6 +63,10 @@ Take the extra time to make code readable and reproducible, so we are not active
         * Write tests (unit and integration tests)
         * Don’t write code that is immediately in a state of tech debt.
         * Choice — having the best team is a choice and something we all have to work at.
+
+## Tidepool Core Values
+Although we have documented Data Science Team philosophies above, Tidepool team members also make an effort to always
+consider the following [Tidepool Core Values](https://github.com/tidepool-org/handbook/blob/master/Tidepool%20Core%20Values.md).
 
 ## References
 * Allen, D. (2001). Getting Things Done: The Art of Stress-Free Productivity. Penguin.

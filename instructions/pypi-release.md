@@ -9,7 +9,8 @@ where you will be deploying. If this is an existing project in pypi, you will ne
    if not, modify and save. 
 6. If you are deploying to https://pypi.org/, ensure the `twine` execution does not contain `--repository-url https://test.pypi.org/legacy/`
    within the 'pypi_push.sh' script. If not, modify and save.
-7. From the commandline excecute the `pypi_push.sh` and enter in your userid and password. If successful, it will give you 
+7. From the commandline excecute the `pypi_push.sh` and enter in your userid and password. If successful, it will
+ give you 
 a link to view your upload. 
 8. Undo any changes you made to the `pypi_push.sh` file. 
 9. Create a git PR to merge your branch into master. This will ensure the version update is in the master branch. 
