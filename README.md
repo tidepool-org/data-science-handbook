@@ -8,26 +8,24 @@ and to document how Tidepool's Data Science Team operates. It is also a place to
 items that make up our ecosystem. 
 
 ## In this Repository
+* [Governance](./GOVERNANCE.md)
+* [Best Practices](./best-practices.md)
 * [Cheat Sheets](cheat-sheets)
-* [Checklists](checklists)
+* [Checklists & Templates (empty)](checklists-and-templates)
 * G-Suite
     * G-Suite Instructions (TODO: instructions/g-suite.md)
     * [G-Suite Acrchitecture](g-suite-architecture)
 * GitHub
     * [GitHub Instructions](instructions/github.md)
     * [GitHub Architecture](github-architecture) 
-* [Governance](governance.md)
 * [Instructions](instructions)
-* [Lessons Learned & Gotchas](lessons-learned-and-gotchas)
-* [Templates](templates) - all non-github templates
-* [Tips & Tricks](tips-and-tricks.md)
+* [Tips & Tricks](tips-and-tricks)
 * [Tutorials](tutorials)
 
-## Architecture, Ecosystem & Tech Stack
+## Architecture, Ecosystem, & Tech Stack
 * 1password - for password management
 * aws - for cloud computing
-    * compute-1
-    * compute-2
+    * compute-1 - the original compute-1 was spun down and replaced with the old compute-2
     * S3
 * confluence - our knowledge-management-system for internal and external knowledge sharing 
 but it will point to github and g-suite
@@ -40,6 +38,9 @@ but it will point to github and g-suite
     * needs version control
     * source can be tidepool or external
     * we need to know what transformations were done
+    * raw data is in MongoDB Atlas
+    * several processed datasets in S3
+    * delivered datasets to partners currently sit in google drive
 * email - for corresponding with partners and non-time sensitive materials
 * g-suite - for creating documents that need review or collaboration
 * github - for version control
@@ -50,9 +51,9 @@ but data will be version controlled in github and g-suite:
     * Data Science Team Drive (in g-suite)
 * local-machine - the tools most of the team uses
     * macbook pro
-    * excel
-    * gitkraken
-    * pycharm
+    * excel - for viewing tabular
+    * gitkraken - has a not gui for git
+    * pycharm - ide with lots of nice features
 * meetings - zoom for video chats, and google docs for meeting notes
 * monday - for long term and roadmap planning
 * slack - for real-time communication
