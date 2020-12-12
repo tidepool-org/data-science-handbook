@@ -98,5 +98,7 @@ and on the [GitKraken Student Resources Page](https://www.gitkraken.com/student-
 * The [GitKraken Documentation Site](https://support.gitkraken.com/) is a searchable hub of support
 articles.
 
+* Students can use GitKraken Pro for free through the [GitHub Student Developer Pack](https://education.github.com/pack/).
+
 
     

@@ -65,3 +65,5 @@ https://www.jetbrains.com/pycharm/documentation/index.html) related to PyCharm.
 * The [PyCharm Documentation Site](https://www.jetbrains.com/help/pycharm/installation-guide.html?keymap=secondary_macos) 
 has an extensive collection of support and tutorial articles, including installing and getting started guides and tutorials on 
 running, debugging and testing code with PyCharm.
+
+* Students can use PyCharm for free through the [GitHub Student Developer Pack](https://education.github.com/pack/).
