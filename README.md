@@ -8,19 +8,17 @@ and to document how Tidepool's Data Science Team operates. It is also a place to
 items that make up our ecosystem. 
 
 ## In this Repository
-* [Governance](./governance.md)
+* [Governance](./GOVERNANCE.md)
 * [Best Practices](./best-practices.md)
 * [Cheat Sheets](cheat-sheets)
-* [Checklists](checklists)
+* [Checklists & Templates (empty)](checklists-and-templates)
 * G-Suite
     * G-Suite Instructions (TODO: instructions/g-suite.md)
     * [G-Suite Acrchitecture](g-suite-architecture)
 * GitHub
     * [GitHub Instructions](instructions/github.md)
     * [GitHub Architecture](github-architecture) 
-
 * [Instructions](instructions)
-* [Templates](templates) - all non-github templates
 * [Tips & Tricks](tips-and-tricks)
 * [Tutorials](tutorials)
 
