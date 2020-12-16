@@ -1,13 +1,13 @@
-# Data Science Team Governance
+# Data Science Team Philosophies, Principles, and Values
 Last updated May 1, 2020 by Ed Nykaza, Jason Meno, and Cameron Summers
 
 ## Purpose
-The purpose of this governance document is to document how the Tidepool Data Science Team operates. We firmly believe 
+The purpose of this document is to describe how the Tidepool Data Science Team operates. We firmly believe 
 in radical transparency and continual improvement. As such, this is a living document that should be helpful for anyone 
 that wants to contribute to the data science team. We recognize that we are a part of the larger Tidepool
 team, and therefore consider the [Tidepool Mission Statement](https://github.com/tidepool-org/handbook/blob/master/Mission%20Statement.md) a large part of our team governance.
 
-## Team Philosophies
+## Team Philosophies & Principles
 * Always put the diabetes community and Tidepool before your ego. In fact, you don’t work for Tidepool, you work for 
 the diabetes community. This job is a privilege.
 * Continually learn and share what you learn. The more we can share back to the diabetes community the more we can help 
@@ -62,7 +62,7 @@ Take the extra time to make code readable and reproducible, so we are not active
         * Reuse code via import (don’t copy and paste)
         * Write tests (unit and integration tests)
         * Don’t write code that is immediately in a state of tech debt.
-        * Choice — having the best team is a choice and something we all have to work at.
+    * **Choice — having the best team is a choice and something we all have to work at.**
 
 ## Tidepool Core Values
 Although we have documented Data Science Team philosophies above, Tidepool team members also make an effort to always
